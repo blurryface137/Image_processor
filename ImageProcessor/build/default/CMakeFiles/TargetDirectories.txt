@@ -1,0 +1,6 @@
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/CMakeFiles/rebuild_cache.dir
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/CMakeFiles/edit_cache.dir
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/CMakeFiles/image_processor.dir
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/tests/CMakeFiles/rebuild_cache.dir
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/tests/CMakeFiles/edit_cache.dir
+/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default/tests/CMakeFiles/ip_test.dir

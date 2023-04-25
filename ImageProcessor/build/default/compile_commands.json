@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++   -I../../src  -O3 -DNDEBUG   -o CMakeFiles/image_processor.dir/src/ImageProcessor.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/ImageProcessor.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/ImageProcessor.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++   -I../../src  -O3 -DNDEBUG   -o CMakeFiles/image_processor.dir/src/Bitmap.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Bitmap.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Bitmap.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++   -I../../src  -O3 -DNDEBUG   -o CMakeFiles/image_processor.dir/src/Filter.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Filter.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Filter.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++   -I../../src  -O3 -DNDEBUG   -o CMakeFiles/image_processor.dir/src/Handler.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Handler.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Handler.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I../../src  -O3 -DNDEBUG   -o tests/CMakeFiles/ip_test.dir/Test.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/tests/Test.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/tests/Test.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I../../src  -O3 -DNDEBUG   -o tests/CMakeFiles/ip_test.dir/__/src/Bitmap.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Bitmap.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Bitmap.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I../../src  -O3 -DNDEBUG   -o tests/CMakeFiles/ip_test.dir/__/src/Filter.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Filter.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Filter.cpp"
+},
+
+{
+  "directory": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/build/default",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I../../src  -O3 -DNDEBUG   -o tests/CMakeFiles/ip_test.dir/__/src/Handler.cpp.o -c /media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Handler.cpp",
+  "file": "/media/shogun/DATA/Documents/Projects/Freelancehunt_Andrey/ImageFilters/ImageProcessorCMake/ImageProcessor/src/Handler.cpp"
+}
+]
